@@ -1,8 +1,10 @@
-
 language: python
 python:
   - "2.7"
   - "3.8"
-pre_install: pip3 install -U pytest
-install: pip3 install
-script: pytest
+pre_install: 
+- pip3 install -U pytest
+install: 
+- pip3 install
+script: 
+- pytest
