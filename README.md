@@ -1,2 +1,2 @@
 ## binary-search
-test
+In this branch you find the project after configuring Travis CI
